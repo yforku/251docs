@@ -14,7 +14,7 @@
 * [Activate the Virtual Environment](#idx008)
 * [MkDocs and Plugins](#idx009)
 * [MkDocs inside folder "docs/"](#idx010)
-* [File: "mkdocs.yml"]((#idx11)
+* [File: "mkdocs.yml"](#idx11)
 * [Test from VirtualBox](#idx012)
 * [Build the MkDocs site](#idx013)
 * [Switch to gh-pages branch and back to master](#idx014)
